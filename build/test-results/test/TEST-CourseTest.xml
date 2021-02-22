@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CourseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-22T21:13:53" hostname="DESKTOP-HNG3HQ1" time="0.058">
+  <properties/>
+  <testcase name="GIVEN a course with quota WHEN register a student that is currently registered THEN should not allow" classname="CourseTest" time="0.042"/>
+  <testcase name="GIVEN a course WHEN register a student THEN should allow" classname="CourseTest" time="0.002"/>
+  <testcase name="GIVEN a course without quota WHEN register a student THEN should not allow" classname="CourseTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
